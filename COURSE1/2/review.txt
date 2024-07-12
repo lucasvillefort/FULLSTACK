@@ -1,0 +1,4 @@
+write to create reat app
+    [+] npx create-react-app name-app-here 
+        cd name-app-here
+        npm start
